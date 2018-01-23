@@ -11,7 +11,7 @@ of the two numbers. Displays whether or not the user got the question correct.
 NOTE: program is able to allow for subtraction problems which result in negative differences.
 The third option generates two random values between 0 and 100, and asks user for the product of the
 two numbers. Displays whether or not the user got the question correct.
-The fourth option generates two random values between 0 and 100, and then randomly choose which
+The fourth option generates two random values between 0 and 100, and then randomly chooses which
 math operation (addition, subtraction, or multiplication) to perform on those two numbers.
 */
 
